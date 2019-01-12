@@ -23,12 +23,13 @@
 
 # Repository layout
 
+```
 ├── amazon_finefood_review_project1.ipynb
 ├── images
 ├── LICENSE
 ├── README.md
 └── stopword_short_long_mod.txt
-
+```
 
 # Repository content:
 
