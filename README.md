@@ -40,7 +40,8 @@
 
 # How to run the code:
 
-Clone the repository (git clone) using the Github address: `https://github.com/ania4data/Sentiment_study_Amazon_fine_food_review.git`
+Clone the repository (git clone) using the following Github address:
+https://github.com/ania4data/Sentiment_study_Amazon_fine_food_review.git
 
 
 # Source dataset
