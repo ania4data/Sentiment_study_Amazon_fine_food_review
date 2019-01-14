@@ -24,8 +24,10 @@
 # Repository layout
 
 ```
+├── amazon_finefood_review_capstone.ipynb 
 ├── amazon_finefood_review_project1.ipynb
 ├── images
+├── backup
 ├── LICENSE
 ├── README.md
 └── stopword_short_long_mod.txt
@@ -33,8 +35,10 @@
 
 # Repository content:
 
-- Jupter notebook file: `amazon_finefood_review_project1.ipynb`
+- Jupter notebook file: `amazon_finefood_review_capstone.ipynb` updated notebook after review
+- Jupter notebook file: `amazon_finefood_review_project1.ipynb` older (first submission)
 - Image folder (`images`): containing figures in the notebook
+- Backup folder containing first submission notebook
 - A txt file : `stopword_short_long_mod.txt`, containg list of stop words
 - MIT License file
 
