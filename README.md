@@ -72,4 +72,4 @@ The zipped `csv` file used in this study can be downloaded from:
 
 # Further ideas for improvement
 
-[Link] (https://github.com/ania4data/Sentiment_study_Amazon_fine_food_review/tree/master/future_work)
+[Link](https://github.com/ania4data/Sentiment_study_Amazon_fine_food_review/tree/master/future_work)
