@@ -68,3 +68,8 @@ The zipped `csv` file used in this study can be downloaded from:
 - The machine learning algorithm can successfully predict word sentiment of reviews that the model has not seen before with score ROC_AUC=0.95, Accuracy and F1_score of 0.9.
 - The word structure created from embedding vectors after training the model clearly show two blob structure by unsupervised t-SNE representing sentiments (positive and negative) in the data.
 - Considering various deep-learning approch tested in the process of completing this project (e.g. GRU, LSTM, 1D-Conv) the results did not improve significantly with adding deeper layer or changinf drop-out, due to alarming increase in 5-star reviews in Amazon data one approach is trying to screen these "fake" reviews by having information about the review submitter. This will hopefully improve the unbalanced nature of the reviews and perhaps the overall performance of the model.
+
+
+# Further ideas for improvement
+
+[Link] https://github.com/ania4data/Sentiment_study_Amazon_fine_food_review/tree/master/future_work
